@@ -5,7 +5,7 @@ The main idea behind this project is to show most common vulnerabilities that ca
 # Installation and setup
 
 ```shell
-$ git clone https://github.com/zsusac/VulnerableCoreApp.git
+$ git clone https://github.com/singhkranjan/vulnasp.git
 $ cd VulnerableCoreApp/
 $ dotnet run
 ```
